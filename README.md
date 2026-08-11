@@ -1,6 +1,6 @@
 
 
-# linuxmint-live-custom-template
+# linuxmint-live-custom-respin-base
 
 
 
